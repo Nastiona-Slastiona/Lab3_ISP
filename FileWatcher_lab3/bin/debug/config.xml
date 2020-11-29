@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EtlOptions>
+  <StorageOptions>
+    <SourseFileName>C:\Universe\SourceDirectory\file.txt</SourseFileName>
+    <TargetDirectory>C:\Universe\TargetDirectory</TargetDirectory>
+  </StorageOptions>
+  <ArchiveOptions>
+    <ZipName>archive.zip</ZipName>
+  </ArchiveOptions>
+  <CryptingOptions>
+    <EncryptionKey>12345678</EncryptionKey>
+  </CryptingOptions>
+</EtlOptions>

@@ -1,0 +1,98 @@
+﻿Выполняется установка сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Устанавливается служба My_lively_laba...
+Создается исходный EventLog My_lively_laba в журнале Application...
+Выполняется откат для сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника My_lively_laba.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Устанавливается служба My_lively_laba...
+Создается исходный EventLog My_lively_laba в журнале Application...
+Выполняется откат для сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника My_lively_laba.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется удаление сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Выполняется удаление источника EventLog My_lively_laba.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Устанавливается служба My_lively_laba...
+Создается исходный EventLog My_lively_laba в журнале Application...
+Выполняется откат для сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника My_lively_laba.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Устанавливается служба My_lively_laba...
+Создается исходный EventLog My_lively_laba в журнале Application...
+Выполняется откат для сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника My_lively_laba.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется удаление сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Выполняется удаление источника EventLog My_lovely_laba.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Устанавливается служба My_lovely_laba...
+Создается исходный EventLog My_lovely_laba в журнале Application...
+Выполняется откат для сборки 'C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.exe
+   logfile = C:\Universe\FileWatcher_lab3\FileWatcher_lab3\bin\Debug\FileWatcher_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника My_lovely_laba.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
